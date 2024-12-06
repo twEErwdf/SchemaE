@@ -5,7 +5,7 @@
     Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach
 </h3>
 
-Official code repository :bookmark_tabs: "[Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach]".
+Official code repository : "[Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach]".
 
 ![Schema](./model_crop.pdf)
 
