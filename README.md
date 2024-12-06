@@ -1,6 +1,7 @@
 <p align="center">
-  <h1>SchemaE</h1>
+  <strong style="font-size:30px;">SchemaE</strong>
 </p>
+
 
 
 
