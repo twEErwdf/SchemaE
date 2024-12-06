@@ -5,7 +5,7 @@
     Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach
 </h3>
 
-![Schema](./model_crop.pdf)
+![SchemaE](./model_crop.pdf)
 
 In this paper, we identify that most existing embedding-based methods fail to capture contextual information in entity neighborhoods. Additionally, little attention is paid to the diversity of entity representations in different contexts.
 We consider that the schema of KG is beneficial for preserving the consistency of entities across contexts, and we propose a novel **s**chema-augmented **m**ult**i**-level contrastive **le**arning framework (**SMiLE**:blush:) to conduct knowledge graph link prediction.
