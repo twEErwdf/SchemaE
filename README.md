@@ -1,5 +1,5 @@
 <p align="center">
-  <h1># SchemaE</h1>
+  <h1>SchemaE</h1>
 </p>
 
 
