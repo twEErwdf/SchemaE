@@ -10,7 +10,7 @@
 In this paper, we propose a novel model that can embed entity types to improve link prediction. Additionally, we also focus on the problem of learning isolated node embeddings, which has been almost ignored in existing research. Through extensive experiments, we demonstrate the effectiveness and efficiency of our proposed model.
 
 ## Dependencies
-Environmental Settings: Linux Ubuntu 18.04.6 LTS, CUDA 10.2, NVIDIA TITAN RTX(24GB).
+Environmental Settings: Linux Ubuntu 20.04.6 LTS, CUDA 12.5, NVIDIA TITAN RTX(24GB).
 
 Run `pip install -r requirements.txt` to install following dependencies:
 
