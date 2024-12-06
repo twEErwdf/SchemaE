@@ -7,8 +7,7 @@
 
 ![Schema](./model.png)
 
-In this paper, we identify that most existing embedding-based methods fail to capture contextual information in entity neighborhoods. Additionally, little attention is paid to the diversity of entity representations in different contexts.
-We consider that the schema of KG is beneficial for preserving the consistency of entities across contexts, and we propose a novel **s**chema-augmented **m**ult**i**-level contrastive **le**arning framework (**SMiLE**:blush:) to conduct knowledge graph link prediction.
+In this paper, we propose a novel model that can embed entity types to improve link prediction. Additionally, we also focus on the problem of learning isolated node embeddings, which has been almost ignored in existing research. Through extensive experiments, we demonstrate the effectiveness and efficiency of our proposed model.
 
 ## Dependencies
 Environmental Settings: Linux Ubuntu 18.04.6 LTS, CUDA 10.2, NVIDIA TITAN RTX(24GB).
