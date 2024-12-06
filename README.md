@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size:30px;">SchemaE</strong>
+  <strong style="font-size:50px;">SchemaE</strong>
 </p>
 
 
