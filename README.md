@@ -5,8 +5,6 @@
     Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach
 </h3>
 
-Official code repository : "[Learning Schema Embeddings for Service Link Prediction: A Coupled Matrix-Tensor Factorization Approach]".
-
 ![Schema](./model_crop.pdf)
 
 In this paper, we identify that most existing embedding-based methods fail to capture contextual information in entity neighborhoods. Additionally, little attention is paid to the diversity of entity representations in different contexts.
