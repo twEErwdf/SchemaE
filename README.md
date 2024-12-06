@@ -14,12 +14,12 @@ Environmental Settings: Linux Ubuntu 20.04.6 LTS, CUDA 12.5, NVIDIA TITAN RTX(24
 
 Run `pip install -r requirements.txt` to install following dependencies:
 
-- Python 3.6.5
-- numpy 1.19.5
-- pandas 1.1.0
-- networkx 2.4
-- scikit_learn 1.1.2
-- torch 1.5.0
+dgl==1.1.0+cu118
+numpy==1.24.1
+torch==2.0.0
+Python==3.11.0
+pandas==2.2.3
+scikit-learn==1.5.2
 
 ## Datasets
 We use four public KG datasets: FB15k, FB15k-237, JF17k and HumanWiki.
