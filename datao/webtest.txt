@@ -1,0 +1,144 @@
+Vinogeo invoke Google Earth
+World Citizen News invoke Yahoo Weather
+Hvper invoke YouTube
+Setlisting invoke Facebook Graph
+explore travellr invoke Flickr
+NYC Big Maps invoke Your Mapper
+Foodzy invoke Facebook
+World Citizen News invoke Google Search
+Rebate Bus invoke Shopify Admin
+Jazva invoke BigCommerce
+Quotemunk invoke Goodreads
+Boorow.com invoke eBay
+boxConnect invoke YouTube
+Travel Baseball Team Locator invoke Google Geocoding
+Must See Greece invoke DBpedia
+We-Wired Web invoke YouTube
+Soundcry invoke Dailymotion
+coderbits invoke RubyGems
+Cheap Places to Live invoke Expedia
+Orcheeder invoke Facebook
+Maps of All invoke OpenStreetMap
+DoDyDo invoke Facebook
+Movies Now Playing invoke The Movie Database (TMDb)
+Videva invoke YouTube
+Rate Tour Guides invoke Google Maps Data
+YOUZEEK invoke Last.fm
+soundeos invoke Facebook Social Plugins
+Fan TV invoke Netflix
+UKBirdCount invoke Twitter
+FollowFly invoke Instagram Graph
+Analytics Portfolio invoke Google Chart
+fuhshniZZle Music Video Jukebox invoke Discogs
+Caribbean Resorts Mashup invoke Panoramio
+Muskie's Favourite Quotation Mashup invoke Amazon Product Advertising- dupe
+Twitea.me invoke Facebook
+PropertyWala.com invoke Twitter
+Local Geonius invoke Google Maps Places
+R闂佺厧鐡ㄩ悷鈺佲枔閺勭袱do invoke Bit.ly
+TactioHealth invoke RunKeeper Health Graph
+Can I Stream.it? invoke Netflix
+PixtaPlace invoke Instagram Graph
+The byrds and the bee(gees) invoke Spotify Metadata
+iFiles invoke Amazon S3
+Towns Of The World invoke Twitter Streaming
+ToastBank invoke Twitter
+Elseif invoke Twitter
+VitaminsMatch invoke Commission Junction
+Europass.me invoke LinkedIn
+Skimzee invoke Facebook Graph
+SimplySubscribe.Me invoke Facebook
+Bandtrace invoke LyricWiki
+CityStrides invoke New Relic
+Ecruit - Internships for College Students invoke LinkedIn
+Richseam invoke Spotify Echo Nest
+SeiDiStrada invoke Google Maps Places
+in1.com invoke Facebook Real-time Updates
+Richseam invoke MusicBrainz
+triage.me invoke Twilio
+Walkotel invoke Yelp Fusion
+PriceZombie Price Tracker invoke Twitter
+TrendsRus - Twitter Global Trends Map invoke Twitter
+BizScrambler invoke Twitter
+RenttoOwnQuest invoke Zillow
+Datantify invoke LinkedIn
+coderbits invoke Readability
+Shared Count invoke Pinterest Domain
+Social Buzz invoke Google Plus
+All My Courts invoke Google Maps Data
+FoodieToGo invoke Ordrx
+VoteNight invoke Facebook Graph
+eDigiCash Shopping Cart invoke Google Checkout
+BoatTrader invoke Shipping
+Lofty deals invoke Google Street View Image
+World Movie Search invoke YouTube
+Rainbow Data Sync - iSmart Solutions invoke Box
+BizScrambler invoke Eventful
+CityStrides invoke Airbrake
+Feedly Android invoke Facebook
+in1.com invoke Pinterest Domain
+Use That Gift Card invoke Best Buy Products
+Collection Trakr invoke Twitter
+Rainbow Data Sync - iSmart Solutions invoke Dropbox
+Bandtrace invoke MusicBrainz
+playmap.jp invoke Facebook
+WunderWalk invoke Google Maps
+uKoel Social Jukebox invoke YouTube
+Cloud Elements invoke SugarCRM
+wordonthewire invoke Twitter
+Auto Attendant (Open Source) invoke Hoiio SMS
+VeganHunter invoke Yelp Fusion
+Mapify.us invoke Facebook
+We-Wired Web invoke Twilio SMS
+Globebop invoke Wikipedia
+Plunker editor invoke Plunker
+The Global Map of Musicians invoke Google Analytics Managment
+MobileHomesForSaleInfo.com invoke Oodle
+Boorow.com invoke Google Search
+Skimzee invoke Instagram Graph
+DIY charts invoke Google Civic Information
+Profile Feeder invoke Pinterest Domain
+Bicicarm invoke Google Maps Elevation
+Seesu invoke SoundCloud
+PropRover invoke Twitter
+Bitdango Market Search invoke BitStamp HTTP
+Skimzee invoke Wikipedia
+Ariane 6 invoke Wikipedia
+CalendarSpots.com invoke PayPal
+MapProvision invoke Google Fusion Tables
+Fan TV invoke iTunes and iTunes Connect
+Productism invoke Facebook Graph
+playmap.jp invoke Flickr
+Twitter Based CRM invoke Twitter
+RenttoOwnQuest invoke Google AdSense
+Soundcry invoke YouTube
+StarterPad invoke Twitter
+MapMyFriends- A Facebook App invoke Facebook
+Online Basketball Camp invoke Facebook
+Feedly iOS invoke Twitter
+Psykoo invoke Tumblr
+ScanTheNet invoke Twitter
+Backup Box invoke Box
+Profile Pie invoke Google Chart
+CityStrides invoke Fitbit
+Flocations invoke Google Latitude
+vplan.com/search invoke Yandex
+Richseam invoke Last.fm
+Twenue invoke Twitter
+WatchCount.com invoke eBay Finding
+Healthy Lemur invoke Facebook
+PlugThe.Net invoke Instagram Graph
+Alert The Boss | Instant Customer Feedback Solution invoke Twilio
+eSync Dashboard invoke BigCommerce
+Towns Of The World invoke YouTube
+ImmaBeHungover invoke Foursquare
+Feedly Android invoke Google Plus
+AltFolio - Altcoin Portfolio Tracker invoke BTC-e
+EasyWeather - The Weather Engine invoke Forecast
+Librables invoke Yahoo BOSS
+Find Best Three invoke YouTube
+Best Careers Information Center invoke indeed
+USA Name Data (BigQuery Public Dataset) invoke Google BigQuery
+etrigg.com invoke Expedia
+TravelOxi.com invoke Google Geocoding
+Song for Pic invoke iTunes and iTunes Connect
